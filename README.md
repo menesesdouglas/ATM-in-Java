@@ -82,7 +82,8 @@ Bem vindo!
 ## 👤 Autor
 
 Douglas Meneses - [@menesesdouglas](https://github.com/menesesdouglas)
+                  [Linkedin](https://www.linkedin.com/in/menesesdouglas)
 
 ## 📝 Licença
 
-Este projeto é de código aberto e está disponível para fins educacionais.
+MIT License
