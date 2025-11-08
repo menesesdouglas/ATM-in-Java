@@ -1,4 +1,4 @@
-# ATM-in-java
+# ATM-in-Java
 
 Um sistema bancário simples desenvolvido em Java que simula operações básicas de um caixa eletrônico (ATM).
 
